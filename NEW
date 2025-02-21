@@ -1,6 +1,6 @@
 git clone https://github.com/2Tasha6/forfun.github
 
-cd 2Tasha6.github
+cd forfun.github
 
 echo "Hello World" > index.html
 
