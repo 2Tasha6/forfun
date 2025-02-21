@@ -3,3 +3,9 @@ git clone https://github.com/2Tasha6/forfun.github
 cd 2Tasha6.github
 
 echo "Hello World" > index.html
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
